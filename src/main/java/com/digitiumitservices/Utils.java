@@ -3,7 +3,7 @@ package com.digitiumitservices;
 public class Utils {
 
 	public  void sample() {
-		System.out.println("Helper method...");
+		System.out.println("Helper method updated in feature branch");
 		
 
 	}
